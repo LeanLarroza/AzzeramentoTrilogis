@@ -33,3 +33,18 @@ C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.exe
 C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.xml
 C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.pdb
 C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.vbprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.vbprojAssemblyReference.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.Form1.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.Form2.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.Form3.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.Resources.resources
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.vbproj.GenerateResource.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.exe
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.xml
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.pdb
+C:\Proyectos VB.Net\AzzeramentoTrilogis\Output\Azz.exe.config
+C:\Proyectos VB.Net\AzzeramentoTrilogis\Output\Azz.exe
+C:\Proyectos VB.Net\AzzeramentoTrilogis\Output\Azz.pdb
+C:\Proyectos VB.Net\AzzeramentoTrilogis\Output\Azz.xml
+C:\Users\Martin\Source\Repos\LeanLarroza\AzzeramentoTrilogis\Azz sysdba\obj\Debug\Azz.vbproj.CopyComplete
