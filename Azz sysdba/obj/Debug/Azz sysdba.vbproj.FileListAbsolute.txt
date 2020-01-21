@@ -1,0 +1,19 @@
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento SYSDBA\Azz sysdba.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento SYSDBA\Azz sysdba.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento SYSDBA\Azz sysdba.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento SYSDBA\Azz sysdba.xml
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Form1.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Form2.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Form3.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Resources.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz sysdba.vbproj.GenerateResource.cache
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz sysdba.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz sysdba.vbproj.CopyComplete
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.xml
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz sysdba.vbprojAssemblyReference.cache
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.exe
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.xml
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.pdb

@@ -1,0 +1,35 @@
+c:\users\martin\source\repos\Azz\Azz\bin\Debug\Azz.exe.config
+c:\users\martin\source\repos\Azz\Azz\bin\Debug\Azz.exe
+c:\users\martin\source\repos\Azz\Azz\bin\Debug\Azz.pdb
+c:\users\martin\source\repos\Azz\Azz\bin\Debug\Azz.xml
+c:\users\martin\source\repos\Azz\Azz\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+c:\users\martin\source\repos\Azz\Azz\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Martin\Desktop\Azzeramento\Azz.exe.config
+C:\Users\Martin\Desktop\Azzeramento\Azz.exe
+C:\Users\Martin\Desktop\Azzeramento\Azz.pdb
+C:\Users\Martin\Desktop\Azzeramento\Azz.xml
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.Form1.resources
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.Form2.resources
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.Form3.resources
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.Resources.resources
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.vbproj.GenerateResource.cache
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.vbproj.CopyComplete
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.exe
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.xml
+C:\Users\Martin\source\repos\Azz\Azz\obj\Debug\Azz.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.exe.config
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.exe
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.pdb
+C:\Users\Martin\Desktop\Proyectos VB.Net\Azzeramento3Logis\Azz.xml
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Form1.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Form2.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Form3.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.Resources.resources
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.vbproj.GenerateResource.cache
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.vbproj.CopyComplete
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.exe
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.xml
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.pdb
+C:\Users\Martin\source\repos\Azz sysdba\Azz sysdba\obj\Debug\Azz.vbprojAssemblyReference.cache
